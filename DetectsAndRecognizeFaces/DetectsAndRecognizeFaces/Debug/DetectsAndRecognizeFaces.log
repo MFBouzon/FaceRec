@@ -1,0 +1,4 @@
+﻿  facerec_video.cpp
+c:\users\muril\documents\detectsandrecognizefaces\detectsandrecognizefaces\facerec_video.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+c:\users\muril\documents\detectsandrecognizefaces\detectsandrecognizefaces\facerec_video.cpp(259): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  DetectsAndRecognizeFaces.vcxproj -> C:\Users\muril\Documents\DetectsAndRecognizeFaces\Debug\DetectsAndRecognizeFaces.exe
